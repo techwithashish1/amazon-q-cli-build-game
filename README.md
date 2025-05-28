@@ -54,7 +54,7 @@ Once we have the initial setup done, all we need to start the Amazon Q chat sess
 
 q chat
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 Provided Prompt (Instruction):
 
@@ -78,31 +78,31 @@ the correct number or if the number of attempts are over. In the end bot will
 show the number as well. 
 After provided the prompt, the Amazon Q starts its magic and creates set of python code in few seconds.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
 It creates the code and save the code to a new directory as well.
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 Here is the created module high level doc
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 Now with all the code and program is ready to execute, lets play the game:
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 
 
 ### Improvement Request:
@@ -121,19 +121,19 @@ This adjustment will ensure a more consistent and fair gameplay experience.
 
 Please refer to the provided snapshot for the exact instructions given to update the code.
 
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 After providing the updated instruction, the Amazon Q update the existing code.
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
 The feedback after update is as below:
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
 Lets play the final game:
 
-![alt text](image-15.png)
+![alt text](images/image-15.png)
 
 Bingo, I got the number. 🎉
 
